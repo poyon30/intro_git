@@ -1,3 +1,5 @@
 Gitの練習
 基本的なワークフローを学びます
 謎
+.git add
+.git commit
